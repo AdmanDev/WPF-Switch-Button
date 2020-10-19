@@ -1,4 +1,4 @@
-﻿# WPF Switch button
+﻿># WPF Switch button
 
 
 Cette librairie contient un contrôle WPF permettant à l'utilisateur d'activer / désactiver des éléments (de la même manière qu'une Checkbox) mais avec un bouton commutateur.
@@ -21,7 +21,7 @@ Cette librairie contient un contrôle WPF permettant à l'utilisateur d'activer 
 
 |![Switch unchecked](Docs/Switch_unchecked.png)  |![Switch checked](Docs/Switch_checked.png)  |
 |--|--|
-| Activé | Désactivé |
+| Désactivé | Activé |
 
 **Propriété:**
 - La propriété <u>***Checked***  *(bool)*</u> permet d'activer ("cocher") ou désactiver ("décocher") l'élément.
@@ -35,7 +35,7 @@ Vous pouvez choisir une couleur d'arrière-plan de la partie rectangulaire du co
 
 |![Colored switch unchecked](Docs/Switch_unchecked_color.png)  |![Colored switch checked](Docs/Switch_checked_color.png)  |
 |--|--|
-| Activé | Désactivé |
+| Désactivé | Activé |
 
 **Propriétés:**
 - La propriété <u>***UncheckedBackground*** *(Brush)*</u> permet de choisir la couleur de la partie rectangulaire lorsque la propriété ***Checked*** est définie sur <code>False</code>.
